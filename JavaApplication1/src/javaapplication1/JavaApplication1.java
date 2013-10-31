@@ -8,7 +8,7 @@ package javaapplication1;
 
 /**
  *
- * @author tx
+ * @author Jose Luis
  */
 public class JavaApplication1 {
 
